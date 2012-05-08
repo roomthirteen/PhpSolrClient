@@ -1,0 +1,13 @@
+{
+    "name": "room13/PhpSolrClient",
+    "description": "A github fork of the solr-php-client from google code at http://code.google.com/p/solr-php-client/",
+    "authors": [
+        {
+            "name": "Benjamin Seibert",
+            "email": "benjamin.seibert@gmx.de"
+        }
+    ],
+    "require": {
+
+    }
+}
